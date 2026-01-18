@@ -1,9 +1,0 @@
-# Screenshots (Evidence)
-
-This folder contains key evidence of the lab working end-to-end:
-- AD DS + DNS configured
-- Ticket raised via osTicket
-- Ticket handled by agent
-- Troubleshooting access denied to share drive
-- GPO restrictions applied to client
-- Lockout and password policy enforcement
