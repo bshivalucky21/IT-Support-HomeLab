@@ -11,7 +11,7 @@
 - Access-Based Enumeration hiding folders
 
 ## Troubleshooting Steps
-1. Confirm path: `\\DC01\Department Shares` (example)
+1. Confirm path: `\\DC01\Department Shares` 
 2. Check user's group membership in AD
 3. On file server: verify **Share permissions**
 4. Verify **NTFS permissions** (Security tab)
